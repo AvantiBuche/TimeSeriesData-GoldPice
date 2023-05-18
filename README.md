@@ -1,6 +1,6 @@
 # TimeSeriesData-GoldPrice
 TimeSeries Data Model for Daily Gold Prices from Year 1975-2023
-Source: ![investing]([url](https://in.investing.com/commodities/gold-historical-data?))
+Source: [investing]([url](https://in.investing.com/commodities/gold-historical-data?))
 
 Time series data, also referred to as time-stamped data, is a sequence of data points indexed in time order.
 These data points typically consist of successive measurements made from the same source over a fixed time interval and are used to track change over time.
