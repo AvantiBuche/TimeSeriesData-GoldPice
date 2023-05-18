@@ -8,13 +8,13 @@ It helps organizations understand the underlying causes of trends or systemic pa
 
 Examples of time series analysis:
 
-Electrical activity in the brain
-Rainfall measurements
-Stock prices
-Number of sunspots
-Annual retail sales
-Monthly subscribers
-Heartbeats per minute
+1.Electrical activity in the brain
+2.Rainfall measurements
+3.Stock prices
+4.Number of sunspots
+5.Annual retail sales
+6.Monthly subscribers
+7.Heartbeats per minute
 
 ## Analysis of the Data
 
