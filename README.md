@@ -20,6 +20,6 @@ Heartbeats per minute
 
 ![gold_page-0001](https://github.com/AvantiBuche/TimeSeriesData-GoldPrice/assets/127451991/2e56e677-c999-4b3e-a9df-3b4f9adf9fe4)
 
+### Plot of Y_test and Predictions
 ![download](https://github.com/AvantiBuche/TimeSeriesData-GoldPrice/assets/127451991/efa717b5-0b14-4166-b61a-aa6e08d951c0)
-Plot if Y_test and Predictions
 
