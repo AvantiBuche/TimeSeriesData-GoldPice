@@ -10,10 +10,10 @@ Examples of time series analysis:
 Electrical activity in the brain, Rainfall measurements, Stock prices, Number of sunspots, Annual retail sales, Monthly subscribers, Heartbeats per minute
 
 ## About the gold price prediction data
-Here we have a csv file of gold prices from year 1975 - 2023 with Dates, Open price and other columns.
-The Analysis is done on Date and open price column.
-We have used the Facebook's Prophet library for the model prediction.
-The prediction is done for the next 2000 days. 
+<div>Here we have a csv file of gold prices from year 1975 - 2023 with Dates, Open price and other columns.</div>
+<div>The Analysis is done on Date and open price column.</div>
+<div>We have used the Facebook's Prophet library for the model prediction.</div>
+<div>The prediction is done for the next 2000 days. </div>
 
 ## Analysis of the Gold Prices along with dates
 
