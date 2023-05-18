@@ -7,7 +7,13 @@ These data points typically consist of successive measurements made from the sam
 It helps organizations understand the underlying causes of trends or systemic patterns over time.
 
 Examples of time series analysis:
-Electrical activity in the brain, Rainfall measurements, Stock prices, Number of sunspots, Annual retail sales, Monthly subscribers, Heartbeats per minute
+<div>Electrical activity in the brain</div>
+<div>Rainfall measurements</div>
+<div>Stock prices</div>
+<div>Number of sunspots</div>
+<div>Annual retail sales</div>
+<div>Monthly subscribers</div>
+<div>Heartbeats per minute</div>
 
 ## About the gold price prediction data
 <div>Here we have a csv file of gold prices from year 1975 - 2023 with Dates, Open price and other columns.</div>
