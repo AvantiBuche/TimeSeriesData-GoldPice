@@ -10,7 +10,7 @@ Examples of time series analysis:
 
 Electrical activity in the brain, Rainfall measurements, Stock prices, Number of sunspots, Annual retail sales, Monthly subscribers, Heartbeats per minute
 
-## Analysis of the Data
+## Analysis of the Gold Prices
 
 ![gold_page-0001](https://github.com/AvantiBuche/TimeSeriesData-GoldPrice/assets/127451991/2e56e677-c999-4b3e-a9df-3b4f9adf9fe4)
 
