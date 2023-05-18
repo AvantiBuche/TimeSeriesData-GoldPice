@@ -7,13 +7,19 @@ These data points typically consist of successive measurements made from the sam
 It helps organizations understand the underlying causes of trends or systemic patterns over time.
 
 Examples of time series analysis:
-
 Electrical activity in the brain, Rainfall measurements, Stock prices, Number of sunspots, Annual retail sales, Monthly subscribers, Heartbeats per minute
 
-## Analysis of the Gold Prices
+## About the gold price prediction data
+Here we have a csv file of gold prices from year 1975 - 2023 with Dates, Open price and other columns.
+The Analysis is done on Date and open price column.
+We have used the Facebook's Prophet library for the model prediction.
+The prediction is done for the next 2000 days. 
 
-![gold_page-0001](https://github.com/AvantiBuche/TimeSeriesData-GoldPrice/assets/127451991/2e56e677-c999-4b3e-a9df-3b4f9adf9fe4)
+## Analysis of the Gold Prices along with dates
 
-### Plot of Y_test and Predictions
-![download](https://github.com/AvantiBuche/TimeSeriesData-GoldPrice/assets/127451991/efa717b5-0b14-4166-b61a-aa6e08d951c0)
+![download (2)](https://github.com/AvantiBuche/TimeSeriesData-GoldPrice/assets/127451991/4c761510-7fdb-443c-a94d-52fad56dad79)
+
+### Plot of date, price and Predictions
+
+![download (1)](https://github.com/AvantiBuche/TimeSeriesData-GoldPrice/assets/127451991/8f7b0abe-f8bf-4601-a5b1-051decb268d6)
 
