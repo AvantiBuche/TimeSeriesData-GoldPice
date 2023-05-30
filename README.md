@@ -1,4 +1,4 @@
-# TimeSeriesData-GoldPrice
+# TimeSeries Data- Gold Price Prediction
 TimeSeries Data Model for Daily Gold Prices from Year 1975-2023
 Source: [investing]([url](https://in.investing.com/commodities/gold-historical-data?))
 
